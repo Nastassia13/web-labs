@@ -1,0 +1,9 @@
+by/katsuba/lab5/commands/impl/LoginCommand.class
+by/katsuba/lab5/entity/User.class
+by/katsuba/lab5/filter/RegistrationFilter.class
+by/katsuba/lab5/filter/UserFilter.class
+by/katsuba/lab5/entity/User_.class
+by/katsuba/lab5/dao/impl/UserDaoImpl.class
+by/katsuba/lab5/commands/impl/LogoutCommand.class
+by/katsuba/lab5/commands/impl/RegistrationCommand.class
+by/katsuba/lab5/dao/UserDao.class

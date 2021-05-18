@@ -1,0 +1,43 @@
+p {
+    margin: 20px;
+}
+
+h2, h5, h4 {
+    margin: 50px;
+    color: darkslateblue;
+    height: 70px;
+}
+
+.a {
+    margin: 50px;
+    font-size: 24px;
+}
+
+.main {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    background-color: #483d8b;
+    height: 70px;
+    display: block;
+}
+
+.table {
+    text-align: center;
+    margin: auto;
+    width: 70% !important;
+}
+
+.form {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.button {
+    margin-left: 50px;
+    width: 200px;
+    background-color: darkslateblue;
+    text-decoration-color: white;
+}
